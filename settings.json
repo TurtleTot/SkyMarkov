@@ -1,7 +1,7 @@
 {
     "Host": "irc.chat.twitch.tv",
     "Port": 6667,
-    "Channel": "#feralharupi",
+    "Channel": "#Amachisky",
     "Nickname": "skybrainssizzlers",
     "Authentication": "oauth:kahcqfpxuvhheey9ubh5k70irzv85m",
     "DeniedUsers": [
